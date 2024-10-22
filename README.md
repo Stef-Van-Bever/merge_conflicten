@@ -1,4 +1,4 @@
 # merge conflicten
 
-Dit verhaal gaat over een eend.
-De eend was niet braaf.
+Mijn verhaal gaat over een hond.
+De hond was heel braaf
